@@ -1,6 +1,5 @@
 window.RestomaxBook = {
-  storeId: 2,
-  storeUid: 2
+  storeUid: '7f513f50-ad70-40f3-a2ae-37f87137443b'
 };
 (function () {
   var script = document.createElement('script');
